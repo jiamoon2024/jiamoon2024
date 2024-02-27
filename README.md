@@ -11,3 +11,8 @@ jiamoon2024/jiamoon2024 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->hi,it's me,jiamoon.
 im interested in reading mystery novels 
+i'm not good at coding things
+i've learnt python for being a quant,from beginning to give-up
+but now i decided to start again
+if i give up,pls ignoring above 
+of course it's a joke,i promise😜
